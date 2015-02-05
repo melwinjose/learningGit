@@ -1,1 +1,2 @@
 Some Sample Text
+Line 2
